@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day 01 - Java Programming Elements/Day 01 - Java Programming Elements.iml" filepath="$PROJECT_DIR$/Day 01 - Java Programming Elements/Day 01 - Java Programming Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 02 - Java Control Flows/Day 02 - Java Control Flows.iml" filepath="$PROJECT_DIR$/Day 02 - Java Control Flows/Day 02 - Java Control Flows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 03 - Java Arrays/Day 03 - Java Arrays.iml" filepath="$PROJECT_DIR$/Day 03 - Java Arrays/Day 03 - Java Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 04 - Java Methods/Day 04 - Java Methods.iml" filepath="$PROJECT_DIR$/Day 04 - Java Methods/Day 04 - Java Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 05 - Java String/Day 05 - Java String.iml" filepath="$PROJECT_DIR$/Day 05 - Java String/Day 05 - Java String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 01 - Core Programming.iml" filepath="$PROJECT_DIR$/Week 01 - Core Programming.iml" />
+    </modules>
+  </component>
+</project>
